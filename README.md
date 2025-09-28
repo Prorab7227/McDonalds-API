@@ -1,6 +1,6 @@
 # 🍔 McDonald's API
 
-Developed by [@Mykyta]
+Developed by [@Prorab7227]
 
 ## 🕷 Spiders
 
